@@ -10,6 +10,7 @@
 1. **Clona il repository:**
 
    git clone https://github.com/prodigy2/sendmailjs.git
+   
    cd sendmailjs
 
 npm install nodemailer
